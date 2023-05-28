@@ -11,7 +11,8 @@
 * _Bootstrap_
 * _React_Js_
 
-
+##URL:
+https://rahul7315.github.io/crud_details/
 
 ## Note
 * _I attatched the ScreenShot in repo._
