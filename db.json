@@ -1,0 +1,16 @@
+{
+  "Emp": [
+    {
+      "id": 2,
+      "name": "Rama",
+      "email": "Ram@gmail.com",
+      "phno": "4368997315"
+    },
+    {
+      "id": 3,
+      "name": "Rahul ",
+      "email": "Rahul@gmail.com",
+      "phno": "4379887315"
+    }
+  ]
+}
